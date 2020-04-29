@@ -1,0 +1,1 @@
+This is module 2 assignment contains html, css and angular.
